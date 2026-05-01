@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.7.apk",
-  "notes": "Design neon refinado, Stop alterado para Pause e controles Play/Pause/Prev/Next funcionando tambem na transmissao."
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.9.apk",
+  "notes": "Player fixo no rodape, pre-escuta no cabecalho da playlist e remocao de faixa pelos tres pontos."
 }
