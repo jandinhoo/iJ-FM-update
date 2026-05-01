@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.12.apk",
-  "notes": "Interface fixa sem rolagem geral, topo reduzido sem simbolos e listas rolando internamente."
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.13.apk",
+  "notes": "Janela Discord em Musicas e adicao de faixas por toque longo escolhendo a playlist."
 }
