@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.6.apk",
-  "notes": "Aba lateral com visual neon e secoes de configuracao, equalizador e compressor com mostrar/esconder."
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.7.apk",
+  "notes": "Design neon refinado, Stop alterado para Pause e controles Play/Pause/Prev/Next funcionando tambem na transmissao."
 }
