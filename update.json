@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.4.apk",
-  "notes": "Novo nome iJ FM, logo adicionada e ajuste do botao voltar."
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.6.apk",
+  "notes": "Aba lateral com visual neon e secoes de configuracao, equalizador e compressor com mostrar/esconder."
 }
