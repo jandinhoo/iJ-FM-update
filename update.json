@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.11.apk",
-  "notes": "Player inferior compacto, conteudo acima do player e rolagem da tela Musicas corrigida."
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.12.apk",
+  "notes": "Interface fixa sem rolagem geral, topo reduzido sem simbolos e listas rolando internamente."
 }
