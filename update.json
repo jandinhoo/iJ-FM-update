@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.14.apk",
-  "notes": "Discord pelo servidor RB Remote sem token do bot no app."
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.15.apk",
+  "notes": "Botao Discord com configuracao escondida e adicao de musicas somente pelo botao +."
 }
