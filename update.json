@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.17",
-  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.17.apk",
-  "notes": "Playlists com lixeira e abas separadas para musicas do celular e do Discord."
+  "versionCode": 19,
+  "versionName": "1.0.18",
+  "apkUrl": "https://raw.githubusercontent.com/jandinhoo/iJ-FM-update/main/iJ-FM-v1.0.18.apk",
+  "notes": "Tela de musicas com apenas as abas Celular e Discord, sem botoes duplicados."
 }
